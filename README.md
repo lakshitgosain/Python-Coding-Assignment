@@ -5,4 +5,4 @@ Execution Instructions
   3. Through the command Prompt, navigate to the above Directory
   4. type python main.py in the command prompt (the Environment variable might be different so alsot try py main.py)
   5. Follow the Instructions as per the GUI
-  6. 
+  
